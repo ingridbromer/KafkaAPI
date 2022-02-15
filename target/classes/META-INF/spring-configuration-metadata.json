@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "api.teste.config.KafkaConfig",
+      "sourceType": "api.teste.config.KafkaConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.output-kafka-topic",
+      "type": "java.lang.String",
+      "sourceType": "api.teste.config.KafkaConfig"
+    }
+  ],
+  "hints": []
+}
